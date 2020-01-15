@@ -11,7 +11,7 @@ Only two scripts are needed.
 
 # Intended for ...
 
-We assume `only one person` will update the github. No collaboration with others. 
+I assume `only one person` will update the github. No collaboration with others. 
 If you want to collaborate with others, you definitely *will need to learn your github commands*.
 
 # Why do I need a github
@@ -43,7 +43,7 @@ Anything really.
 ## 1. Creating your first github repository
 
 Download this github to create your own github the easy way. 
-You can use the download button and unzip or use `git clone https://github.com/erikdubois/Github-Tutorial`
+You can use the download button and unzip or use `git clone https://github.com/rahulchatta/Experiments`
 in the terminal. Once you have the code you follow the steps in the tutorial.
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
@@ -62,13 +62,14 @@ Choose a name for your repository. You can change it later in settings.
 
 Go to a terminal and git clone your repository e.g.
 
-	git clone https://github.com/erikdubois/Github-Tutorial
+	git clone https://github.com/rahulchatta/Experiments
 
 Now you have a folder that only **seems** empty. There is a hidden folder `.git` in there.
 
 ### 4. copy/paste scripts
 
-Copy/paste the files from the downloaded **Github-Tutorial** inside your own github folder. You can copy/paste
+Copy/paste the files git-v1.sh and setup-git-v1.sh from the downloaded **Experiments** inside your own github folder. 
+You can copy/paste
 the README.md too and change the file. You can see what markdown I have used to have titles, bold, images and youtube.
 
 
@@ -122,7 +123,7 @@ Assuming we are on a different pc. You take the following steps to get your gith
 
 Open a terminal and type e.g.
 
-	git clone https://github.com/erikdubois/Github-Tutorial
+	git clone https://github.com/rahulchatta/Experiments
 
 If you already have the github but want to update or sync, type this in the terminal
 
@@ -185,7 +186,5 @@ Or you can follow these steps
 
 You can do whatever <b>Y O U</b> want.
 
-Share the knowledge.
 
-I share my knowledge at http://erikdubois.be
 ------------------------------------------------
