@@ -44,11 +44,7 @@ Anything really.
 
 Download this github to create your own github the easy way. 
 You can use the download button and unzip or use `git clone https://github.com/rahulchatta/Experiments`
-in the terminal. Once you have the code you follow the steps in the tutorial.
-
-<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
-<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
-</a>
+in the terminal.
 
 ### 1. make an account on github
 
@@ -96,11 +92,6 @@ I run it personally via terminal by typing
 Not needed but if you are interested, I am going over the code in the two scripts.
 I have also included links in the scripts so you can learn more on the net.
 
-<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
-<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
-</a>
-
-
 ## 3. Most used markdown to make a beautiful 'homepage' or README.md
 
 * making titles or heading 1, 2, ...
@@ -110,12 +101,6 @@ I have also included links in the scripts so you can learn more on the net.
 * making links
 * adding images
 * adding youtube
-
-
-<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
-<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
-</a>
-
 
 ## 4. Syncing your github repository on an other pc
 
@@ -135,12 +120,6 @@ If you changed something, you type this in the terminal to push it back on githu
 
 Remember to `git pull` your files from github on the other computer. Do not worry. 
 Git will warn you with a message if you forget.
-
-
-<a target="_blank" href="https://www.youtube.com/playlist?list=PLlloYVGq5pS62xdUdNsWCqRC_y-cgqBbh">
-<img style="max-width:100%;" src="http://i.imgur.com/aLvTmJn.jpg">
-</a>
-
 
 # Recommendation
 
