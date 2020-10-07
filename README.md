@@ -36,10 +36,6 @@ Anything really.
 6. settings from applications
 
 
-
-# Youtube tutorials
-
-
 ## 1. Creating your first github repository
 
 Download this github to create your own github the easy way. 
@@ -92,17 +88,7 @@ I run it personally via terminal by typing
 Not needed but if you are interested, I am going over the code in the two scripts.
 I have also included links in the scripts so you can learn more on the net.
 
-## 3. Most used markdown to make a beautiful 'homepage' or README.md
-
-* making titles or heading 1, 2, ...
-* making text bold or italic
-* making numbered and unnumbered lists
-* making a quote
-* making links
-* adding images
-* adding youtube
-
-## 4. Syncing your github repository on an other pc
+## 3. Syncing your github repository on an other pc
 
 Assuming we are on a different pc. You take the following steps to get your github files locally.
 
@@ -146,7 +132,7 @@ A script can only run when it is marked as an executable.
 
 Above code will reveal if a script has an "x". X meaning executable.
 Google "chmod" and "execute" and you will find more info.
-
+ 
 For now if this happens, you should apply this code in the terminal and add the file name.
 
 	chmod +x typeyourfilename
