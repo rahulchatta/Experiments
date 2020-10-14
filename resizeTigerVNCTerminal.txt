@@ -1,0 +1,3 @@
+From terminal run:
+xrandr to see the supported resolutions.
+xrandr -s 5 (No of the resolution shown)
